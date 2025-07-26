@@ -30,6 +30,9 @@
 <a href="https://kaggle.com/https://www.kaggle.com/bouzalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bouzalim" height="30" width="40" /></a>
 </p>
 
+
+
+
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://i.gifer.com/JYOl.gif" />
 <!-- <img align="right" height="300" width="500" src="https://connectsyou.ca/wp-content/uploads/2025/03/Connects-You-AI-Digital-Ecosystem-800-x-450-px.gif" /> -->
