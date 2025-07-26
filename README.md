@@ -33,10 +33,12 @@
 
 
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://i.gifer.com/JYOl.gif" />
+
 
 ## 🔧 Tech Stack
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://i.gifer.com/JYOl.gif" />
+<!-- <img align="right" height="300" width="500" src="https://connectsyou.ca/wp-content/uploads/2025/03/Connects-You-AI-Digital-Ecosystem-800-x-450-px.gif" /> -->
 
 ### 🖥️ Programming Language Stack
 <p align="left">
