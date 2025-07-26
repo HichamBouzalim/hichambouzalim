@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at: [Github Profile](https://github.com/hichambouzalim)
 
+- 🧠 Explore my Computer Vision datasets: [Roboflow Profile](https://app.roboflow.com/hicham-bouzalim)
+
 - 📫 How to reach me: **bouzalimhicham11@gmail.com**
 
 - 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/hicham-bouzalim/)
@@ -28,6 +30,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hicham-bouzalim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hicham-bouzalim/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackexchange.com/users/43235757/hicham-bouzalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/43235757/hicham-bouzalim" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/bouzalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bouzalim" height="30" width="40" /></a>
+<a href="https://app.roboflow.com/hicham-bouzalim" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHurhBxVcrsBqeUf53Y3NEHmIwHBi0fayTGMoFbV7R6u61ZDT9GQKpKzY4tKpn4GC6354&usqp=CAU" height="30" width="40" />  
 </p>
 
 
