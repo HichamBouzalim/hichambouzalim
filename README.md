@@ -21,7 +21,7 @@
 
 <h3 align="left">🎓 Education</h3>
 <ul>
-  <li>Bachelor of Engineering in Industrial Computer Science & Automation, Germany</li>
+  <li><b>Bachelor of Engineering in Industrial Computer Science & Automation, Germany</b></li>
   
 </ul>
 
