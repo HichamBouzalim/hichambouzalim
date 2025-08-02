@@ -49,8 +49,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="python" title="python" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/256/919/919832.png" alt="csharp" width="40" height="40"/>
-  <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/256/919/919832.png" alt="typescript" width="40" height="40"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="40" height="40"/>
   
 </p>
 
